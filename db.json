@@ -1,3 +1,106 @@
 {
-    "users": []
+    "users": [
+        {
+            "name": "Abdullah",
+            "email": "abdullah@gmail.com",
+            "password": "123456",
+            "address": "it tower",
+            "shopname": "mian electric"
+        }
+    ],
+    "jobseeker": [
+        {
+            "name": "Abdullah",
+            "email": "habdullah@gmail.com",
+            "phone": "03214159690",
+            "password": "111",
+            "id": 1,
+            "avatar": "https://github.com/hafizabdullah1.png",
+            "basic": {
+                "f_name": "abdullah",
+                "l_name": "qasim",
+                "DOB": "2003-12-09",
+                "degree": "intermediate",
+                "gender": "male"
+            },
+            "contact": {
+                "email": "habdullah4510@gmail.com",
+                "home_no": "03266000778",
+                "mobile": "03214159690",
+                "country": "pakistan",
+                "address_line1": "Yateem khana chowk iqbal town lahore Pakistan",
+                "city": "Lahore",
+                "address_line2": "iqbal town lahore, punjab",
+                "zip_code": "54000"
+            },
+            "experience": {
+                "job_city": "lahore",
+                "expected_designation": "front-end-developer",
+                "experience": "fresher"
+            },
+            "summary": {
+                "summary": "Hello my name is Hafiz Abdullah and i am a software developer at vvrok cloud technology"
+            },
+            "education": {
+                "degreetitle": "intermediate",
+                "degreelevel": "intermediate",
+                "majors": "9009898",
+                "yearcompletion": "2023",
+                "institute": "vvork volud tech",
+                "location": "Lahore It Tower",
+                "result": "CGPA",
+                "cgpa_percentage": "3.2"
+            },
+            "industry": {
+                "industry": "web developement"
+            },
+            "awards": {
+                "title": "Developement",
+                "authority": "Teacher",
+                "date": "08-10-2021",
+                "award_url": "https:github.com/hafizabdullah1/"
+            },
+            "workhistory": {
+                "designation": "lahore gulberg ",
+                "company": "Vvork Software House",
+                "fromdate": "2023-02-01",
+                "presentdate": "2023-09-12",
+                "refemail": "vvorkadmin@gmail.com",
+                "refnumber": "03007888892",
+                "country": "54000",
+                "city": "Lahore",
+                "remarks": "In this company i am a frontend developer in react js and next js "
+            },
+            "project": {
+                "projecttitle": "Job Seeker",
+                "company": "Self",
+                "fromdate": "2010-12-12",
+                "presentdate": "2020-12-12",
+                "projectlink": "https://localhost:3000/user/1",
+                "customername": "Asad Ur Rehman",
+                "customer_url": "asadbirthday.nrtlify.app",
+                "tool": "html,css,js,react.js"
+            },
+            "skills": {
+                "name": "html,css,js,reactjs,redux"
+            },
+            "Preferred_job_city": {
+                "city": "Lahore"
+            },
+            "hobbies": {
+                "hobby": "cricket"
+            },
+            "languages": [
+                {
+                    "language": "english urdu"
+                }
+            ],
+            "reference": {
+                "name": "Asad",
+                "company": "asad traders",
+                "email": "asad1122@gmail.com",
+                "contact_no": "03096000773"
+            }
+        }
+    ]
 }
